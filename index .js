@@ -5,5 +5,13 @@
 ////Countries///
 let countries = ["Switzerland", "Japan", "London", "Norway", "Dubai", "Turkey"];
 console.log(`I would like to visit: ${countries}`);
-export {};
 ///Mountains///
+let mountains = ["K2", "Himalaya", "Hindu Kash", "Salt Range"];
+console.log(`I would like to See this: ${mountains}`);
+///Cities///
+let cities = ["Karachi", "Lahore", "Islamabad", "Sawat", "kagan"];
+console.log(`I would like go for vacations: ${cities}`);
+///Languages///
+let languages = ["English", "Arabic", "Chinese", "Hindi"];
+console.log(`I would like to Speak: ${languages}`);
+export {};

@@ -9,10 +9,10 @@ console.log(`I would like to visit: ${countries}` )
                     ///Mountains///
 let mountains: string[] = ["K2", "Himalaya", "Hindu Kash", "Salt Range"]
 console.log(`I would like to See this: ${mountains}` )
-                                    ///Cities///
+                    ///Cities///
 let cities: string[] = ["Karachi", "Lahore", "Islamabad", "Sawat","kagan"]
 console.log(`I would like go for vacations: ${cities}` )
-                                    ///Languages///
+                     ///Languages///
 let languages: string[] = ["English", "Arabic", "Chinese", "Hindi"]
 console.log(`I would like to Speak: ${languages}` )
                                                   
